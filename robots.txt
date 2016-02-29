@@ -17,6 +17,7 @@ Disallow: /*.gif$
 Disallow: /*.png$
 Disallow: /*.bmp$
 Disallow: /atom.xml
+Disallow: /search.xml
 
 Sitemap: https://www.haomwei.com/sitemap.xml
 Sitemap: https://www.haomwei.com/baidusitemap.xml
