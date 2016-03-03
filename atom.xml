@@ -324,7 +324,7 @@
     <link href="https://www.haomwei.com/technology/maupassant-hexo.html"/>
     <id>https://www.haomwei.com/technology/maupassant-hexo.html</id>
     <published>2015-10-31T16:00:00.000Z</published>
-    <updated>2016-02-29T12:14:23.000Z</updated>
+    <updated>2016-03-03T08:57:25.000Z</updated>
     
     <content type="html">&lt;p&gt;Maupassant最初是由&lt;a href=&quot;https://github.com/pagecho/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cho&lt;/a&gt;大神为&lt;a href=&quot;http://typecho.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typecho&lt;/a&gt;平台设计开发的一套响应式模板，体积只有20KB，在各种尺寸的设备上表现出色。由于其简洁大气的风格受到许多用户喜爱，目前也已经被移植到了多个平台上，例如：&lt;/p&gt;
 &lt;ul&gt;
@@ -349,6 +349,7 @@
 &lt;h2 id=&quot;主题安装&quot;&gt;&lt;a href=&quot;#主题安装&quot; class=&quot;headerlink&quot; title=&quot;主题安装&quot;&gt;&lt;/a&gt;主题安装&lt;/h2&gt;&lt;p&gt;安装主题和渲染器：&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-renderer-sass --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-renderer-jade --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;编辑Hexo目录下的 &lt;code&gt;_config.yml&lt;/code&gt;，将&lt;code&gt;theme&lt;/code&gt;的值改为&lt;code&gt;maupassant&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;注：若&lt;code&gt;npm install hexo-renderer-sass&lt;/code&gt;安装报错，可能是国内网络问题，请尝试使用代理或者切换至&lt;a href=&quot;http://npm.taobao.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;淘宝NPM镜像&lt;/a&gt;安装。感谢&lt;a href=&quot;http://www.rockcoding.com/2016/03/02/hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;光头强&lt;/a&gt;提供的方法。&lt;/p&gt;
 &lt;h2 id=&quot;功能配置&quot;&gt;&lt;a href=&quot;#功能配置&quot; class=&quot;headerlink&quot; title=&quot;功能配置&quot;&gt;&lt;/a&gt;功能配置&lt;/h2&gt;&lt;p&gt;默认配置:&lt;/p&gt;
 &lt;figure class=&quot;highlight yaml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;fancybox:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## If you want to use fancybox please set the value to true.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;duoshuo:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your duoshuo_shortname, e.g. username&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;disqus:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your disqus_shortname, e.g. username&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;google_search:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Use Google search, true/false.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;baidu_search:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Use Baidu search, true/false.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;swiftype:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;tinysou:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your tinysou_key, e.g. 4ac092ad8d749fdc6293&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;self_search:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Use a jQuery-based local search engine, true/false.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;google_analytics:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your Google Analytics tracking id, e.g. UA-42425684-2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;baidu_analytics:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your Baidu Analytics tracking id, e.g. 8006843039519956000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;shareto:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## If you want to use the share button please set the value to true.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;busuanzi:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## If you want to use Busuanzi page views please set the value to true.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;menu:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; home&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; .&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-home&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; archive&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; archives/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-archive&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; about&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; about/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-user&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; rss&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; atom.xml&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-rss&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;widgets:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; search&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; category&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; tag&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; recent_posts&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; recent_comments&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; links&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;links:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - title:&lt;/span&gt; site-name1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    url:&lt;/span&gt; http://www.example1.com/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - title:&lt;/span&gt; site-name2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    url:&lt;/span&gt; http://www.example2.com/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - title:&lt;/span&gt; site-name3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    url:&lt;/span&gt; http://www.example3.com/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# Static files&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;js:&lt;/span&gt; js&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;css:&lt;/span&gt; css&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# Theme version&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;version:&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;0.0&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;ul&gt;
@@ -4534,31 +4535,6 @@
   </entry>
   
   <entry>
-    <title>Yesterday Once More</title>
-    <link href="https://www.haomwei.com/emotion/yesterday-once-more.html"/>
-    <id>https://www.haomwei.com/emotion/yesterday-once-more.html</id>
-    <published>2009-09-11T16:00:00.000Z</published>
-    <updated>2015-08-14T04:59:37.000Z</updated>
-    
-    <content type="html">&lt;p&gt;离开学还有两天吧。这几天竟总是生活在梦魇之中。不知道它到底给我带来了什么，是慰藉、是欣喜？还是欢乐、是麻痹？无从而知。上一个梦竟和之前有着惊人的相似：一样的时间，一样的地点，不一样的只有人物——少了些许那样重要的身影，只剩我一个人孤军奋斗——大概还有心情。即便如此，也足够惊人的了，一是连续两天相同的时空，二是这次竟有了一些十分不情愿的缺失。我也不知道这些有着什么样的意味，只知道或许是一种征兆，一种暗示，或是一种提醒，提醒我不要忘记什么。我当然不用提醒也不会忘记，并且会刻骨铭心。曾经拥有，曾经美好，这些都不应轻易就丢弃，每个人心中的存储空间都很大，多一些记忆只会让它更加完美，更加充实；即使痛苦的记忆，也会让它经受磨练，等待新生。所以，可以尽量地存放，不愿提及的，也请包容，但可深埋……&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;离开学还有两天吧。这几天竟总是生活在梦魇之中。不知道它到底给我带来了什么，是慰藉、是欣喜？还是欢乐、是麻痹？无从而知。上一个梦竟和之前有着惊人的相似：一样的时间，一样的地点，不一样的只有人物——少了些许那样重要的身影，只剩我一个人孤军奋斗——大概还有心情。即便如此，也足够惊
-    
-    </summary>
-    
-      <category term="emotion" scheme="https://www.haomwei.com/categories/emotion/"/>
-    
-    
-      <category term="心情" scheme="https://www.haomwei.com/tags/emotion/"/>
-    
-      <category term="随笔" scheme="https://www.haomwei.com/tags/manuscript/"/>
-    
-  </entry>
-  
-  <entry>
     <title>漫步纪事</title>
     <link href="https://www.haomwei.com/emotion/a-diary.html"/>
     <id>https://www.haomwei.com/emotion/a-diary.html</id>
@@ -4572,6 +4548,31 @@
     <summary type="html">
     
       &lt;p&gt;一个人吃着冰淇淋，在夜色中漫步。校园依旧静谧，行人亦不多。路过绿园时，里面黑乎乎的一片，猛然想起放假前的夏天也曾独自潜入其中，那天大雾弥漫，行走在空气中感觉身体都被浸湿，我于不知是正在怒放还是即将没落的一塘荷花边走过，伴随着我的还有一豆黑夜中的星光。就这样，包裹着雾气，想象
+    
+    </summary>
+    
+      <category term="emotion" scheme="https://www.haomwei.com/categories/emotion/"/>
+    
+    
+      <category term="心情" scheme="https://www.haomwei.com/tags/emotion/"/>
+    
+      <category term="随笔" scheme="https://www.haomwei.com/tags/manuscript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Yesterday Once More</title>
+    <link href="https://www.haomwei.com/emotion/yesterday-once-more.html"/>
+    <id>https://www.haomwei.com/emotion/yesterday-once-more.html</id>
+    <published>2009-09-11T16:00:00.000Z</published>
+    <updated>2015-08-14T04:59:37.000Z</updated>
+    
+    <content type="html">&lt;p&gt;离开学还有两天吧。这几天竟总是生活在梦魇之中。不知道它到底给我带来了什么，是慰藉、是欣喜？还是欢乐、是麻痹？无从而知。上一个梦竟和之前有着惊人的相似：一样的时间，一样的地点，不一样的只有人物——少了些许那样重要的身影，只剩我一个人孤军奋斗——大概还有心情。即便如此，也足够惊人的了，一是连续两天相同的时空，二是这次竟有了一些十分不情愿的缺失。我也不知道这些有着什么样的意味，只知道或许是一种征兆，一种暗示，或是一种提醒，提醒我不要忘记什么。我当然不用提醒也不会忘记，并且会刻骨铭心。曾经拥有，曾经美好，这些都不应轻易就丢弃，每个人心中的存储空间都很大，多一些记忆只会让它更加完美，更加充实；即使痛苦的记忆，也会让它经受磨练，等待新生。所以，可以尽量地存放，不愿提及的，也请包容，但可深埋……&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;离开学还有两天吧。这几天竟总是生活在梦魇之中。不知道它到底给我带来了什么，是慰藉、是欣喜？还是欢乐、是麻痹？无从而知。上一个梦竟和之前有着惊人的相似：一样的时间，一样的地点，不一样的只有人物——少了些许那样重要的身影，只剩我一个人孤军奋斗——大概还有心情。即便如此，也足够惊
     
     </summary>
     
