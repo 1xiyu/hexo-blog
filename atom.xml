@@ -324,7 +324,7 @@
     <link href="https://www.haomwei.com/technology/maupassant-hexo.html"/>
     <id>https://www.haomwei.com/technology/maupassant-hexo.html</id>
     <published>2015-10-31T16:00:00.000Z</published>
-    <updated>2016-03-03T08:57:25.000Z</updated>
+    <updated>2016-03-03T13:09:56.000Z</updated>
     
     <content type="html">&lt;p&gt;Maupassant最初是由&lt;a href=&quot;https://github.com/pagecho/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cho&lt;/a&gt;大神为&lt;a href=&quot;http://typecho.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typecho&lt;/a&gt;平台设计开发的一套响应式模板，体积只有20KB，在各种尺寸的设备上表现出色。由于其简洁大气的风格受到许多用户喜爱，目前也已经被移植到了多个平台上，例如：&lt;/p&gt;
 &lt;ul&gt;
@@ -337,19 +337,19 @@
 &lt;p&gt;我在一年多以前使用&lt;a href=&quot;http://typecho.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typecho&lt;/a&gt;博客程序的时候就用过这套主题（&lt;a href=&quot;/technology/maupassant.html&quot;&gt;历史文章&lt;/a&gt;），后来更换至&lt;a href=&quot;https://hexo.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;后不得不暂时放弃它，直到几个月前发现了由&lt;a href=&quot;https://github.com/icylogic/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icylogic&lt;/a&gt;移植到Hexo的版本，喜出望外，立刻回归到Maupassant。&lt;/p&gt;
 &lt;p&gt;不过由&lt;a href=&quot;https://github.com/icylogic/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icylogic&lt;/a&gt;最初移植的版本只保留了主题最基本的模块，跟&lt;a href=&quot;https://github.com/pagecho/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cho&lt;/a&gt;自己发布的&lt;a href=&quot;https://github.com/pagecho/Maupassant-farbox/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Farbox版&lt;/a&gt;类似，无法满足大部分爱折腾的Hexoer的需要。因此，在这半年的使用过程中，我将&lt;a href=&quot;https://github.com/icylogic/maupassant-hexo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icylogic的源码&lt;/a&gt;fork过来，陆陆续续添加了一些想要的功能，目前能够实现的功能已经跟当初Typecho平台上的版本差不多了。&lt;/p&gt;
 &lt;p&gt;我已经将修改后的代码发布在Github上，有兴趣的朋友可以下载试用，并欢迎反馈问题：&lt;/p&gt;
-&lt;div id=&quot;badge-container-tufu9441-maupassant-hexo-c9210e6&quot; class=&quot;hexo-github&quot; style=&quot;width: 100%&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;badge-container-tufu9441-maupassant-hexo-e632573&quot; class=&quot;hexo-github&quot; style=&quot;width: 100%&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;/hexo-github/badge.js&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   loadStyle(&quot;/hexo-github/style.css&quot;);
   loadStyle(&quot;/hexo-github/octicons/octicons.css&quot;);
-  new Badge(&quot;#badge-container-tufu9441-maupassant-hexo-c9210e6&quot;, &quot;tufu9441&quot;, &quot;maupassant-hexo&quot;, &quot;c9210e6&quot;, false);
+  new Badge(&quot;#badge-container-tufu9441-maupassant-hexo-e632573&quot;, &quot;tufu9441&quot;, &quot;maupassant-hexo&quot;, &quot;e632573&quot;, false);
 &lt;/script&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://dn-haomwei.qbox.me/images/maupassant.jpg&quot; alt=&quot;主题效果&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;主题安装&quot;&gt;&lt;a href=&quot;#主题安装&quot; class=&quot;headerlink&quot; title=&quot;主题安装&quot;&gt;&lt;/a&gt;主题安装&lt;/h2&gt;&lt;p&gt;安装主题和渲染器：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-renderer-sass --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-renderer-jade --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-renderer-jade --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-renderer-sass --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;编辑Hexo目录下的 &lt;code&gt;_config.yml&lt;/code&gt;，将&lt;code&gt;theme&lt;/code&gt;的值改为&lt;code&gt;maupassant&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;注：若&lt;code&gt;npm install hexo-renderer-sass&lt;/code&gt;安装报错，可能是国内网络问题，请尝试使用代理或者切换至&lt;a href=&quot;http://npm.taobao.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;淘宝NPM镜像&lt;/a&gt;安装。感谢&lt;a href=&quot;http://www.rockcoding.com/2016/03/02/hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;光头强&lt;/a&gt;提供的方法。&lt;/p&gt;
+&lt;p&gt;注：若&lt;code&gt;npm install hexo-renderer-sass&lt;/code&gt;安装时报错，可能是国内网络问题，请尝试使用代理或者切换至&lt;a href=&quot;http://npm.taobao.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;淘宝NPM镜像&lt;/a&gt;安装，感谢光头强提供的&lt;a href=&quot;http://www.rockcoding.com/2016/03/02/hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;方法&lt;/a&gt;。&lt;/p&gt;
 &lt;h2 id=&quot;功能配置&quot;&gt;&lt;a href=&quot;#功能配置&quot; class=&quot;headerlink&quot; title=&quot;功能配置&quot;&gt;&lt;/a&gt;功能配置&lt;/h2&gt;&lt;p&gt;默认配置:&lt;/p&gt;
 &lt;figure class=&quot;highlight yaml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;fancybox:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## If you want to use fancybox please set the value to true.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;duoshuo:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your duoshuo_shortname, e.g. username&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;disqus:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your disqus_shortname, e.g. username&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;google_search:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Use Google search, true/false.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;baidu_search:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Use Baidu search, true/false.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;swiftype:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;tinysou:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your tinysou_key, e.g. 4ac092ad8d749fdc6293&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;self_search:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Use a jQuery-based local search engine, true/false.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;google_analytics:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your Google Analytics tracking id, e.g. UA-42425684-2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;baidu_analytics:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Your Baidu Analytics tracking id, e.g. 8006843039519956000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;shareto:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## If you want to use the share button please set the value to true.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;busuanzi:&lt;/span&gt; &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## If you want to use Busuanzi page views please set the value to true.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;menu:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; home&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; .&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-home&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; archive&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; archives/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-archive&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; about&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; about/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-user&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - page:&lt;/span&gt; rss&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    directory:&lt;/span&gt; atom.xml&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    icon:&lt;/span&gt; fa-rss&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;widgets:&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; search&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; category&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; tag&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; recent_posts&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; recent_comments&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;bullet&quot;&gt;  -&lt;/span&gt; links&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;links:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - title:&lt;/span&gt; site-name1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    url:&lt;/span&gt; http://www.example1.com/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - title:&lt;/span&gt; site-name2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    url:&lt;/span&gt; http://www.example2.com/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  - title:&lt;/span&gt; site-name3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;    url:&lt;/span&gt; http://www.example3.com/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# Static files&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;js:&lt;/span&gt; js&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;css:&lt;/span&gt; css&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# Theme version&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;version:&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;0.0&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;ul&gt;
@@ -4731,6 +4731,41 @@
   </entry>
   
   <entry>
+    <title>仰望天空</title>
+    <link href="https://www.haomwei.com/emotion/look-at-the-sky.html"/>
+    <id>https://www.haomwei.com/emotion/look-at-the-sky.html</id>
+    <published>2007-05-18T16:00:00.000Z</published>
+    <updated>2015-08-13T12:38:12.000Z</updated>
+    
+    <content type="html">&lt;p&gt;夕阳在林间平静下来，等待着暮色的收拾。不知名的鸟儿用翅膀一遍又一遍地抚摩着天空，像我景仰的目光一样。静待夜的回归，祭奠夕阳的沉没&lt;/p&gt;
+&lt;p&gt;我仰望天空。&lt;/p&gt;
+&lt;p&gt;天空中漂浮着缥缈而奇妙的声音，用眼睛可以听得到——伤感却静美，喜悦而平和。一生经过彷徨的挣扎，说比天空更广阔的是人的胸怀，问谁又能做到？看看镜中的那个人，我为他感到唏嘘。&lt;/p&gt;
+&lt;p&gt;棉花糖似的云静静地放在天上，秋日午后毛茸茸的太阳照着我的面庞。天空下，我感到岁月正在从指间飞过，不留一丝痕迹。而曾经的浮华曾经的童话便在这顶礼膜拜的仰望中无影无踪了。&lt;/p&gt;
+&lt;p&gt;“天空依然阴霾依然有鸽子在飞翔……”那个叫朴树的这样唱道，很温存，还带有淡淡的忧伤，这应该也不错。即便阴霾也还有生命，卧在冬天的雪地中张开双臂，去拥抱天空，虽然会冷也还是会去追，毕竟，我们还是有梦的一群人。&lt;/p&gt;
+&lt;p&gt;雾和夜一齐奔向孤单的天。松涛阵阵，云海茫茫，人心惶惶。雨像泪一样萧瑟着滴落，湿了心情，模糊了视线，却怎么也模糊不了天空的容颜，他棱角分明的脸，他的星眉剑目，用手轻轻抚过会怎样？抚过那酷烈中的冰霜，岁月又在上面刻下了怎样的流变？没有苍老，只有睿智的淡定，山峰一座座在脚下起伏，挥之不去的一抹玄色，是夕阳中的如火嫣红吗？断鸿声里，立尽斜阳，天空让我迷茫。&lt;/p&gt;
+&lt;p&gt;仰望夜空照样美丽。没有了白天的喧嚣，多了份夜的静谧，我心愈发澄澈。偶尔有夜鸟掠过，也很安详，在这氲氤的空气里。然后躺下，睡着，幻想，就是如此之简单。&lt;/p&gt;
+&lt;p&gt;想起了卧看牵牛织女星，恬适地、迷离地仰望。我想站在苍山云海里，看云卷云舒，甚至想纵身云雾，然后奋不顾身冲向天空拨开云层触到月亮却依旧触不到事实的真相呵呵，我们就这样仰望着天空，做着梦。&lt;/p&gt;
+&lt;p&gt;残垣断壁，荒城古冢，大漠滔天，风沙千里。走出蒙昧，走出混沌，走出绝望，即使，我看到的永远只是彼岸花，我依然仰望，仰望天空。像但见长江送流水般的释怀而非惆怅，一张落寞的脸消融在夕阳里。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;夕阳在林间平静下来，等待着暮色的收拾。不知名的鸟儿用翅膀一遍又一遍地抚摩着天空，像我景仰的目光一样。静待夜的回归，祭奠夕阳的沉没&lt;/p&gt;
+&lt;p&gt;我仰望天空。&lt;/p&gt;
+&lt;p&gt;天空中漂浮着缥缈而奇妙的声音，用眼睛可以听得到——伤感却静美，喜悦而平和。一生经过彷徨的挣扎，说比天空
+    
+    </summary>
+    
+      <category term="emotion" scheme="https://www.haomwei.com/categories/emotion/"/>
+    
+    
+      <category term="心情" scheme="https://www.haomwei.com/tags/emotion/"/>
+    
+      <category term="随笔" scheme="https://www.haomwei.com/tags/manuscript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>说给我们</title>
     <link href="https://www.haomwei.com/emotion/say-to-us.html"/>
     <id>https://www.haomwei.com/emotion/say-to-us.html</id>
@@ -4791,41 +4826,6 @@
       &lt;p&gt;风柔柔地吹动，思念会在铃的声响里，伴风同游。&lt;/p&gt;
 &lt;p&gt;我们的昨天，呼啸而过。在哪一站，会搭上他给的明天？又在哪一站，是我们的终点？&lt;br&gt;只听见岁月如风在耳边。还有一抹殷红。&lt;/p&gt;
 &lt;p&gt;每天的中国之声会用声音传递色彩，惊天地而泣鬼神，不知道文字是否可以呢？秋末冬初
-    
-    </summary>
-    
-      <category term="emotion" scheme="https://www.haomwei.com/categories/emotion/"/>
-    
-    
-      <category term="心情" scheme="https://www.haomwei.com/tags/emotion/"/>
-    
-      <category term="随笔" scheme="https://www.haomwei.com/tags/manuscript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>仰望天空</title>
-    <link href="https://www.haomwei.com/emotion/look-at-the-sky.html"/>
-    <id>https://www.haomwei.com/emotion/look-at-the-sky.html</id>
-    <published>2007-05-18T16:00:00.000Z</published>
-    <updated>2015-08-13T12:38:12.000Z</updated>
-    
-    <content type="html">&lt;p&gt;夕阳在林间平静下来，等待着暮色的收拾。不知名的鸟儿用翅膀一遍又一遍地抚摩着天空，像我景仰的目光一样。静待夜的回归，祭奠夕阳的沉没&lt;/p&gt;
-&lt;p&gt;我仰望天空。&lt;/p&gt;
-&lt;p&gt;天空中漂浮着缥缈而奇妙的声音，用眼睛可以听得到——伤感却静美，喜悦而平和。一生经过彷徨的挣扎，说比天空更广阔的是人的胸怀，问谁又能做到？看看镜中的那个人，我为他感到唏嘘。&lt;/p&gt;
-&lt;p&gt;棉花糖似的云静静地放在天上，秋日午后毛茸茸的太阳照着我的面庞。天空下，我感到岁月正在从指间飞过，不留一丝痕迹。而曾经的浮华曾经的童话便在这顶礼膜拜的仰望中无影无踪了。&lt;/p&gt;
-&lt;p&gt;“天空依然阴霾依然有鸽子在飞翔……”那个叫朴树的这样唱道，很温存，还带有淡淡的忧伤，这应该也不错。即便阴霾也还有生命，卧在冬天的雪地中张开双臂，去拥抱天空，虽然会冷也还是会去追，毕竟，我们还是有梦的一群人。&lt;/p&gt;
-&lt;p&gt;雾和夜一齐奔向孤单的天。松涛阵阵，云海茫茫，人心惶惶。雨像泪一样萧瑟着滴落，湿了心情，模糊了视线，却怎么也模糊不了天空的容颜，他棱角分明的脸，他的星眉剑目，用手轻轻抚过会怎样？抚过那酷烈中的冰霜，岁月又在上面刻下了怎样的流变？没有苍老，只有睿智的淡定，山峰一座座在脚下起伏，挥之不去的一抹玄色，是夕阳中的如火嫣红吗？断鸿声里，立尽斜阳，天空让我迷茫。&lt;/p&gt;
-&lt;p&gt;仰望夜空照样美丽。没有了白天的喧嚣，多了份夜的静谧，我心愈发澄澈。偶尔有夜鸟掠过，也很安详，在这氲氤的空气里。然后躺下，睡着，幻想，就是如此之简单。&lt;/p&gt;
-&lt;p&gt;想起了卧看牵牛织女星，恬适地、迷离地仰望。我想站在苍山云海里，看云卷云舒，甚至想纵身云雾，然后奋不顾身冲向天空拨开云层触到月亮却依旧触不到事实的真相呵呵，我们就这样仰望着天空，做着梦。&lt;/p&gt;
-&lt;p&gt;残垣断壁，荒城古冢，大漠滔天，风沙千里。走出蒙昧，走出混沌，走出绝望，即使，我看到的永远只是彼岸花，我依然仰望，仰望天空。像但见长江送流水般的释怀而非惆怅，一张落寞的脸消融在夕阳里。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;夕阳在林间平静下来，等待着暮色的收拾。不知名的鸟儿用翅膀一遍又一遍地抚摩着天空，像我景仰的目光一样。静待夜的回归，祭奠夕阳的沉没&lt;/p&gt;
-&lt;p&gt;我仰望天空。&lt;/p&gt;
-&lt;p&gt;天空中漂浮着缥缈而奇妙的声音，用眼睛可以听得到——伤感却静美，喜悦而平和。一生经过彷徨的挣扎，说比天空
     
     </summary>
     
