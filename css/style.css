@@ -309,7 +309,8 @@ a:focus {
   padding: .8em 0 3.6em;
   margin-top: 1em;
   line-height: 1.5;
-  color: #999; }
+  color: #999;
+  text-align: center; }
   #footer span {
     font-size: .9em; }
 
@@ -336,11 +337,14 @@ a:focus {
   #header .site-name {
     margin-bottom: 60px;
     text-align: center; }
-  #header #nav-menu a {
-    padding: 0 15px;
-    line-height: 27px;
-    height: 27px;
-    font-size: 13px; } }
+  #header #nav-menu {
+    position: relative;
+    text-align: center; }
+    #header #nav-menu a {
+      padding: 0 15px;
+      line-height: 27px;
+      height: 27px;
+      font-size: 13px; } }
 
 /* small*/
 @media print, screen and (max-width: 35.5em) {
