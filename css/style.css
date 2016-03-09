@@ -678,6 +678,9 @@ figure.highlight,
     background: #f7f8f8;
     border-right: 1px solid #e6e6e6;
     padding: 0.3em 15px; }
+    figure.highlight .gutter .line,
+    .codeblock .gutter .line {
+      color: #aaaaaa; }
   figure.highlight .code,
   .codeblock .code {
     padding: 0.3em 15px 0.3em 1em;
