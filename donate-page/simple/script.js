@@ -1,11 +1,11 @@
 jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
-	var BTCQR	=	'images/BTCQR.png';	// 二维码路径
+	var BTCQR	=	'images/BTCQR.jpg';	// 二维码路径
 	var AliPayQR	=	'images/alipay.jpg';
 	var WeChanQR	=	'images/wechat.jpg';
 	// PayPal 账户建议使用 Unicode
-	var ppbusiness	=	"\u0073\u0065\u0061\u006c\u006f\u0075\u0072\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d";
+	var ppbusiness	=	"\u0074\u0075\u0066\u0075\u0039\u0034\u0034\u0031\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d";
 
 	if (!ppitem_name) { ppitem_name	=	"Donate"; }
 
