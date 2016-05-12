@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.haomwei.com/"/>
-  <updated>2016-05-11T13:01:47.000Z</updated>
+  <updated>2016-05-12T04:22:44.000Z</updated>
   <id>https://www.haomwei.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://www.haomwei.com/emotion/Ode-to-Joy.html"/>
     <id>https://www.haomwei.com/emotion/Ode-to-Joy.html</id>
     <published>2016-05-10T16:00:00.000Z</published>
-    <updated>2016-05-11T13:01:47.000Z</updated>
+    <updated>2016-05-12T04:22:44.000Z</updated>
     
     <content type="html">&lt;p&gt;花了四天的时间刷完了一部&lt;a href=&quot;https://movie.douban.com/subject/26430092/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《欢乐颂》&lt;/a&gt;，可谓一鼓作气，废寝忘食，如释重负的同时，也在五月的早晨，终于丢失了睡眠。好久没有如此高强度地堕落了，有点儿力不从心的感觉；也好久没有看过如此阳光向上的电视剧了，充满温暖，其乐融融，也算是没有辜负它的名字。&lt;/p&gt;
 &lt;p&gt;然而，一切也终究只是艺术作品，那样理想的邻里关系，在现实生活中应该不大可能存在吧，所以也就只是看个热闹而已，最多化作一碗鸡汤，然后温暖一个礼拜的人心。其实我最羡慕的是剧中的人物们每天都能起得很早，在上班之前能有充足的时间运动吃饭，打情骂俏，不紧不慢，思考人生，把“一天之计在于晨”的道理体现得淋漓尽致，也鼓舞着我未来健康的生活（虽然总是食言），这应该是最大的收获了。&lt;/p&gt;
@@ -483,7 +483,7 @@
     <link href="https://www.haomwei.com/technology/maupassant-hexo.html"/>
     <id>https://www.haomwei.com/technology/maupassant-hexo.html</id>
     <published>2015-10-31T16:00:00.000Z</published>
-    <updated>2016-05-11T09:56:12.000Z</updated>
+    <updated>2016-05-12T04:08:06.000Z</updated>
     
     <content type="html">&lt;p&gt;Maupassant最初是由&lt;a href=&quot;https://github.com/pagecho/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cho&lt;/a&gt;大神为&lt;a href=&quot;http://typecho.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typecho&lt;/a&gt;平台设计开发的一套响应式模板，体积只有20KB，在各种尺寸的设备上表现出色。由于其简洁大气的风格受到许多用户喜爱，目前也已经被移植到了多个平台上，例如：&lt;/p&gt;
 &lt;ul&gt;
@@ -496,12 +496,12 @@
 &lt;p&gt;我在一年多以前使用&lt;a href=&quot;http://typecho.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typecho&lt;/a&gt;博客程序的时候就用过这套主题（&lt;a href=&quot;/technology/maupassant.html&quot;&gt;历史文章&lt;/a&gt;），后来更换至&lt;a href=&quot;https://hexo.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;后不得不暂时放弃它，直到几个月前发现了由&lt;a href=&quot;https://github.com/icylogic/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icylogic&lt;/a&gt;移植到Hexo的版本，喜出望外，立刻回归到Maupassant。&lt;/p&gt;
 &lt;p&gt;不过由&lt;a href=&quot;https://github.com/icylogic/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icylogic&lt;/a&gt;最初移植的版本只保留了主题最基本的模块，跟&lt;a href=&quot;https://github.com/pagecho/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cho&lt;/a&gt;自己发布的&lt;a href=&quot;https://github.com/pagecho/Maupassant-farbox/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Farbox版&lt;/a&gt;类似，无法满足大部分爱折腾的Hexoer的需要。因此，在这半年的使用过程中，我将&lt;a href=&quot;https://github.com/icylogic/maupassant-hexo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icylogic的源码&lt;/a&gt;fork过来，陆陆续续添加了一些想要的功能，目前能够实现的功能已经跟当初Typecho平台上的版本差不多了。&lt;/p&gt;
 &lt;p&gt;我已经将修改后的代码发布在Github上，有兴趣的朋友可以下载试用，并欢迎反馈问题：&lt;/p&gt;
-&lt;div id=&quot;badge-container-tufu9441-maupassant-hexo-3148222&quot; class=&quot;hexo-github&quot; style=&quot;width: 100%&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;badge-container-tufu9441-maupassant-hexo-0a345e6&quot; class=&quot;hexo-github&quot; style=&quot;width: 100%&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;/hexo-github/badge.js&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   loadStyle(&quot;/hexo-github/style.css&quot;);
   loadStyle(&quot;/hexo-github/octicons/octicons.css&quot;);
-  new Badge(&quot;#badge-container-tufu9441-maupassant-hexo-3148222&quot;, &quot;tufu9441&quot;, &quot;maupassant-hexo&quot;, &quot;3148222&quot;, false);
+  new Badge(&quot;#badge-container-tufu9441-maupassant-hexo-0a345e6&quot;, &quot;tufu9441&quot;, &quot;maupassant-hexo&quot;, &quot;0a345e6&quot;, false);
 &lt;/script&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://dn-haomwei.qbox.me/images/maupassant.jpg&quot; alt=&quot;主题效果&quot;&gt;&lt;/p&gt;
@@ -554,7 +554,8 @@
 &lt;li&gt;&lt;p&gt;使用过程中遇到问题欢迎提交&lt;a href=&quot;https://github.com/tufu9441/maupassant-hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;issue&lt;/a&gt;。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;浏览器支持&quot;&gt;&lt;a href=&quot;#浏览器支持&quot; class=&quot;headerlink&quot; title=&quot;浏览器支持&quot;&gt;&lt;/a&gt;浏览器支持&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://dn-haomwei.qbox.me/images/browser_support.png&quot; alt=&quot;Browser Support&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;浏览器支持&quot;&gt;&lt;a href=&quot;#浏览器支持&quot; class=&quot;headerlink&quot; title=&quot;浏览器支持&quot;&gt;&lt;/a&gt;浏览器支持&lt;/h2&gt;&lt;p&gt;&lt;i class=&quot;fa fa-internet-explorer fa-2x&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-chrome fa-2x&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-firefox fa-2x&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-safari fa-2x&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-opera fa-2x&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;（注：Internet Explorer浏览器仅支持IE9以上版本。）&lt;/p&gt;
 &lt;h2 id=&quot;贡献代码&quot;&gt;&lt;a href=&quot;#贡献代码&quot; class=&quot;headerlink&quot; title=&quot;贡献代码&quot;&gt;&lt;/a&gt;贡献代码&lt;/h2&gt;&lt;p&gt;接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的&lt;code&gt;Pull Request&lt;/code&gt;。&lt;/p&gt;
 </content>
     
@@ -4888,6 +4889,44 @@
   </entry>
   
   <entry>
+    <title>月老的红线</title>
+    <link href="https://www.haomwei.com/emotion/red-line.html"/>
+    <id>https://www.haomwei.com/emotion/red-line.html</id>
+    <published>2007-05-18T16:00:00.000Z</published>
+    <updated>2015-08-13T12:32:31.000Z</updated>
+    
+    <content type="html">&lt;p&gt;风柔柔地吹动，思念会在铃的声响里，伴风同游。&lt;/p&gt;
+&lt;p&gt;我们的昨天，呼啸而过。在哪一站，会搭上他给的明天？又在哪一站，是我们的终点？&lt;br&gt;只听见岁月如风在耳边。还有一抹殷红。&lt;/p&gt;
+&lt;p&gt;每天的中国之声会用声音传递色彩，惊天地而泣鬼神，不知道文字是否可以呢？秋末冬初，黄叶红叶还有绿叶纷纷飘落，只剩下残根老枝无声地挣扎。早晨的阳光裹夹着寒冷，令人空有精神上的欢喜，没有实质的受益。即使看得到红色的那一缕阳光，也感到是一根将会勒住脖子的血色丝带——荆棘羽般的可望而不可及。&lt;/p&gt;
+&lt;p&gt;幽深的走廊，铺满红地毯。是留给被遗弃的天使步入地狱的通道。她在泣血，痛恨这连接天堂和地狱的走道，将自己送入深渊。&lt;/p&gt;
+&lt;p&gt;眼前晃动着一双红舞鞋，却没有主人，像两团蹦跳着的火焰，灼得心脏和大脑赤裸裸地疼。肉体在微漠的暗红中显得滞重，疲惫不堪，这是一种病。匆忙中，地板下散发出腐烂的气味。&lt;/p&gt;
+&lt;p&gt;得失只在一线之间，看不出爱与恨的边缘。散在风中的密码，写给谁来看？只能感觉到背后静静掩上的玄关。谈不上愉快的心情传播到对面早已很弱，纵使身寒心也寒，暂且放下手中那遮颜的伞。&lt;/p&gt;
+&lt;p&gt;风声鹤唳，想起了鹤顶上醉人的鲜艳。彼岸芬芳迷离，享受那美丽的结果是你与失去的岁月重逢——走过那条红地毯。幸亏这滞涩的笔尖未曾浸入那种严酷的液体。&lt;/p&gt;
+&lt;p&gt;白云下的琴，无人弹奏。不断从天而降的太阳羽毛,让薄冰所留下的痕迹都逐渐消失，我不害怕欺骗,因为这世界就建筑在欺骗之上。&lt;/p&gt;
+&lt;p&gt;这一根红线，从赤道接到北极。松松垮垮地绕在北纬23°26’的那根圈圈上，俏皮地摇曳着。而挂在上面的人们，被彼此吸引,像水滴一般，像星星一般……他们对彼此排斥,像磁铁一般,像肌肤颜色一般……他们幸福地欢笑，幸福地恸哭，幸福地和那位老爷爷逗笑、拌嘴，安详地度过一年又一年，红了苹果，绿了葡萄。但愿我是他们中的一个。&lt;/p&gt;
+&lt;p&gt;如果我是那红线的话,那么,我能够像把不曾交会的天空与大地连接起来那样,把人们的心串联起来吗?&lt;/p&gt;
+&lt;p&gt;我不愿泪流满面，痛苦万状。&lt;/p&gt;
+&lt;p&gt;牵好月老的红线，说：“如果有一天我们走散了，我一定会站在原地等你。”&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;风柔柔地吹动，思念会在铃的声响里，伴风同游。&lt;/p&gt;
+&lt;p&gt;我们的昨天，呼啸而过。在哪一站，会搭上他给的明天？又在哪一站，是我们的终点？&lt;br&gt;只听见岁月如风在耳边。还有一抹殷红。&lt;/p&gt;
+&lt;p&gt;每天的中国之声会用声音传递色彩，惊天地而泣鬼神，不知道文字是否可以呢？秋末冬初
+    
+    </summary>
+    
+      <category term="emotion" scheme="https://www.haomwei.com/categories/emotion/"/>
+    
+    
+      <category term="心情" scheme="https://www.haomwei.com/tags/emotion/"/>
+    
+      <category term="随笔" scheme="https://www.haomwei.com/tags/manuscript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>说给我们</title>
     <link href="https://www.haomwei.com/emotion/say-to-us.html"/>
     <id>https://www.haomwei.com/emotion/say-to-us.html</id>
@@ -4945,44 +4984,6 @@
       &lt;p&gt;夕阳在林间平静下来，等待着暮色的收拾。不知名的鸟儿用翅膀一遍又一遍地抚摩着天空，像我景仰的目光一样。静待夜的回归，祭奠夕阳的沉没&lt;/p&gt;
 &lt;p&gt;我仰望天空。&lt;/p&gt;
 &lt;p&gt;天空中漂浮着缥缈而奇妙的声音，用眼睛可以听得到——伤感却静美，喜悦而平和。一生经过彷徨的挣扎，说比天空
-    
-    </summary>
-    
-      <category term="emotion" scheme="https://www.haomwei.com/categories/emotion/"/>
-    
-    
-      <category term="心情" scheme="https://www.haomwei.com/tags/emotion/"/>
-    
-      <category term="随笔" scheme="https://www.haomwei.com/tags/manuscript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>月老的红线</title>
-    <link href="https://www.haomwei.com/emotion/red-line.html"/>
-    <id>https://www.haomwei.com/emotion/red-line.html</id>
-    <published>2007-05-18T16:00:00.000Z</published>
-    <updated>2015-08-13T12:32:31.000Z</updated>
-    
-    <content type="html">&lt;p&gt;风柔柔地吹动，思念会在铃的声响里，伴风同游。&lt;/p&gt;
-&lt;p&gt;我们的昨天，呼啸而过。在哪一站，会搭上他给的明天？又在哪一站，是我们的终点？&lt;br&gt;只听见岁月如风在耳边。还有一抹殷红。&lt;/p&gt;
-&lt;p&gt;每天的中国之声会用声音传递色彩，惊天地而泣鬼神，不知道文字是否可以呢？秋末冬初，黄叶红叶还有绿叶纷纷飘落，只剩下残根老枝无声地挣扎。早晨的阳光裹夹着寒冷，令人空有精神上的欢喜，没有实质的受益。即使看得到红色的那一缕阳光，也感到是一根将会勒住脖子的血色丝带——荆棘羽般的可望而不可及。&lt;/p&gt;
-&lt;p&gt;幽深的走廊，铺满红地毯。是留给被遗弃的天使步入地狱的通道。她在泣血，痛恨这连接天堂和地狱的走道，将自己送入深渊。&lt;/p&gt;
-&lt;p&gt;眼前晃动着一双红舞鞋，却没有主人，像两团蹦跳着的火焰，灼得心脏和大脑赤裸裸地疼。肉体在微漠的暗红中显得滞重，疲惫不堪，这是一种病。匆忙中，地板下散发出腐烂的气味。&lt;/p&gt;
-&lt;p&gt;得失只在一线之间，看不出爱与恨的边缘。散在风中的密码，写给谁来看？只能感觉到背后静静掩上的玄关。谈不上愉快的心情传播到对面早已很弱，纵使身寒心也寒，暂且放下手中那遮颜的伞。&lt;/p&gt;
-&lt;p&gt;风声鹤唳，想起了鹤顶上醉人的鲜艳。彼岸芬芳迷离，享受那美丽的结果是你与失去的岁月重逢——走过那条红地毯。幸亏这滞涩的笔尖未曾浸入那种严酷的液体。&lt;/p&gt;
-&lt;p&gt;白云下的琴，无人弹奏。不断从天而降的太阳羽毛,让薄冰所留下的痕迹都逐渐消失，我不害怕欺骗,因为这世界就建筑在欺骗之上。&lt;/p&gt;
-&lt;p&gt;这一根红线，从赤道接到北极。松松垮垮地绕在北纬23°26’的那根圈圈上，俏皮地摇曳着。而挂在上面的人们，被彼此吸引,像水滴一般，像星星一般……他们对彼此排斥,像磁铁一般,像肌肤颜色一般……他们幸福地欢笑，幸福地恸哭，幸福地和那位老爷爷逗笑、拌嘴，安详地度过一年又一年，红了苹果，绿了葡萄。但愿我是他们中的一个。&lt;/p&gt;
-&lt;p&gt;如果我是那红线的话,那么,我能够像把不曾交会的天空与大地连接起来那样,把人们的心串联起来吗?&lt;/p&gt;
-&lt;p&gt;我不愿泪流满面，痛苦万状。&lt;/p&gt;
-&lt;p&gt;牵好月老的红线，说：“如果有一天我们走散了，我一定会站在原地等你。”&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;风柔柔地吹动，思念会在铃的声响里，伴风同游。&lt;/p&gt;
-&lt;p&gt;我们的昨天，呼啸而过。在哪一站，会搭上他给的明天？又在哪一站，是我们的终点？&lt;br&gt;只听见岁月如风在耳边。还有一抹殷红。&lt;/p&gt;
-&lt;p&gt;每天的中国之声会用声音传递色彩，惊天地而泣鬼神，不知道文字是否可以呢？秋末冬初
     
     </summary>
     
